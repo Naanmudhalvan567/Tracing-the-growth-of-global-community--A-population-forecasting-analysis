@@ -1,6 +1,5 @@
 # Tracing the growth of the Global Community - A Population Forecasting Analysis
-
-# Data analytics by Tableau
+# Data Analytics by Tableau
 
 
 Dashboard Public Link - https://public.tableau.com/shared/STKZ5YPQN?:display_count=n&:origin=viz_share_link
